@@ -1,0 +1,6 @@
+*.php
+*.json
+temp/*
+./temp
+.idea
+.idea/*
