@@ -1,1 +1,1 @@
-https://bak.lms01.com
+https://bak.lms01.com/api.php
