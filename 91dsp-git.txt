@@ -1,1 +1,1 @@
-https:bak.91dsp.com/api2.php
+https:bak.91dsp.com/apiw2.php
