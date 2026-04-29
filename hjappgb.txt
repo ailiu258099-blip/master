@@ -1,1 +1,1 @@
-https://bak.fnomellx.cc/api.php
+https://api2.fnomellx.cc/api.php
