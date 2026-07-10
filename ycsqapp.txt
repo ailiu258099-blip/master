@@ -1,1 +1,1 @@
-ttps://bak.yechaoapp.com/api.php
+https://bak.yechaoapp.com/api.php
