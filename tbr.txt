@@ -1,1 +1,1 @@
-https://api3.zaazecurb.cc/ping.txt
+https://api3.zaazecurb.cc/api.php
